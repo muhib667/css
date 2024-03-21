@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray
+
+    }
+
+.title{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 2em;
+
+}
+
+#projects {
+    padding: 2em;
+}
+
+.project {
+    margin-bottom: 2em;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+}
+
+#contact {
+    background-color: #eee;
+    padding: 2em;
+}
+.paragraph{
+    display: flex;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.navbar{
+    display: flex;
+    color: blue;
+}
